@@ -1,6 +1,6 @@
 config {
-  module = true
-  force = false
+  call_module_type = "all"
+  force            = false
 }
 
 plugin "terraform" {
@@ -8,11 +8,12 @@ plugin "terraform" {
   preset  = "recommended"
 }
 
-plugin "aws" {
-  enabled = true
-  version = "0.29.0"
-  source  = "github.com/terraform-linters/tflint-ruleset-aws"
-}
+# AWS ruleset is optional - uncomment and update if needed
+# plugin "aws" {
+#   enabled = true
+#   version = "0.32.0"
+#   source  = "github.com/terraform-linters/tflint-ruleset-aws"
+# }
 
 rule "terraform_deprecated_interpolation" {
   enabled = true
