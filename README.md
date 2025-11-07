@@ -157,6 +157,8 @@ This repository includes [GitHub Copilot guidelines](./.github/copilot/terraform
 4. Run validation checks locally
 5. Submit a pull request
 
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed contribution guidelines.
+
 ## Requirements
 
 | Name | Version |
@@ -177,7 +179,7 @@ No outputs.
 
 ## License
 
-[Specify your license here]
+MIT License - see [LICENSE](./LICENSE) file for details.
 
 ## Authors
 
