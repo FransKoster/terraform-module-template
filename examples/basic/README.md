@@ -28,6 +28,7 @@ terraform apply
 # Destroy the resources when done
 terraform destroy
 ```
+
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
 
