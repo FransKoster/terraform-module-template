@@ -2,7 +2,7 @@
 
 Date: 2025-11-19
 
-Status: Proposed | Accepted | Superseded | Deprecated
+Status: Proposed
 
 Context
 

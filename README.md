@@ -159,24 +159,6 @@ This repository includes [GitHub Copilot guidelines](./.github/copilot/terraform
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed contribution guidelines.
 
-## Requirements
-
-| Name | Version |
-|------|---------|
-| terraform | >= 1.0 |
-
-## Providers
-
-No providers.
-
-## Inputs
-
-No inputs.
-
-## Outputs
-
-No outputs.
-
 ## License
 
 MIT License - see [LICENSE](./LICENSE) file for details.
