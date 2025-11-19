@@ -28,24 +28,6 @@ terraform apply
 # Destroy the resources when done
 terraform destroy
 ```
-
-## Requirements
-
-| Name | Version |
-|------|---------|
-| terraform | >= 1.0 |
-
-## Providers
-
-No providers.
-
-## Inputs
-
-No inputs.
-
-## Outputs
-
-No outputs.
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
 
