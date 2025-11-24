@@ -2,7 +2,7 @@
 # This file specifies the required Terraform version and providers
 
 terraform {
-  required_version = ">= 1.0"
+  required_version = ">= 1.14"
 
   required_providers {
     # Add your required providers here
